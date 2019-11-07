@@ -6,6 +6,7 @@ Minimum Viable Product Features Include:
 - date and time of availabile slots
 - a way to sign up for slots
 - a way to cancel time slots
+- reminders of scheduled time slots
 
 
 This app will be created using React, Express or firebase, and Ionic React. These are subject to change. 
